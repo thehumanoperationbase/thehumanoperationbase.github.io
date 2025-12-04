@@ -22,4 +22,4 @@ description: "The Human Operation Base – Industrial Open Cooperative Platform"
 
 > [P.O.D. Initiative](/POD)
 
-> [AMARANTHIANE Life House](/AMARAN)
+> [AMARANTHIANE Life House](/AMARANTHIANE)
