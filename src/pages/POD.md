@@ -66,14 +66,13 @@ ORDER YOUR BLUE PRINT
 
 ## Schedule Your Payments
 
-Contact us
-
- 
+# [Contact us](mailto:homeofbohemian@gmail.com) 
 
  
 ### THE HOB – I.O.C.P. ALL RIGHTS RESERVED / EPHEMERUM 2023 – |
 
 **MERCHANT-BUILDERS-TRADERS-INVESTORS// CONTACT:** 
+
 [hehumanoperationbase@gmail.com](mailto:hehumanoperationbase@gmail.com)
 
 My Home/ for Owner/ 1 Units minimum – 5 Units maximum/ BuyPack or Schedule Payment|
@@ -123,14 +122,12 @@ without the stress of permanence management.
 contact //
 
 email/ <br />
-[homeofbohemian@gmail.com](mailto:thehumanoperationbase@homeofbohemian) / 
+[homeofbohemian@gmail.com](mailto:homeofbohemian@gmail.com) / <br />
 [thehumanoperationbase@homeofbohemian.space](mailto:thehumanoperationbase@homeofbohemian.space) /
 
-whatsApp/ +66841148235 / thehumanoperationbase@homeofbohemian /
+whatsApp/ +66841148235 /  <br /> thehumanoperationbase@homeofbohemian /
 
-whatsApp/ +66841148235
-
-EPHEMERUM-OFFERING-2023Download
+[DOWNLOAD: EPHEMERUM-OFFERING-2023](EPHEMERUM-OFFERING-2023.pdf)
 
 PRIVATE OFF-GRID DEVELOPMENT – IOCP BoD P.O.D. Pitch Industry –
 

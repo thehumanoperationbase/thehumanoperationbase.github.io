@@ -1,6 +1,7 @@
 ---
 layout: "/src/layouts/BaseLayout.astro"
 title: "NODE PUBLISH SUM22"
+description: "Home Of Bohemian – the HOB – the I.O.C.P.//NODE PUBLISH"
 ---
 
 # NODE PUBLISH SUM22

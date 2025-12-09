@@ -12,7 +12,7 @@ description: "The Human Operation Base – Industrial Open Cooperative Platform"
 
 ## NODE PUBLISH / first publication
 
-> [NODE PUBLISH SUM22](/NODE)
+> [NODE PUBLISH SUM22](/NODE_SUM22)
 
 ## I.O.C.P. ongoing development
 
