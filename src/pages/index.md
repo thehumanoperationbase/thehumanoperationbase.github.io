@@ -10,9 +10,9 @@ description: "The Human Operation Base – Industrial Open Cooperative Platform"
 
 ![A starry night sky.](../assets/index/index.png)
 
-## NODE PUBLISH / first publication
+## NODE PUBLISH / lates publication
 
-> [NODE PUBLISH SUM22](/NODE_SUM22)
+> [NODE PUBLISH WIN24-SPR26](/NODE_WIN24-SPR26)
 
 ## I.O.C.P. ongoing development
 

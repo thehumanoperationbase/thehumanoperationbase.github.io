@@ -19,3 +19,5 @@ description: "Home Of Bohemian – the HOB – the I.O.C.P.//NODE PUBLISH"
 > [‘what the “Internet” does best, propagating knowledge about “the subject of choice” worldwide’ //NODE PUBLISH AUT23](/NODE_AUT23)
 
 > [‘Salience of a Kind’ //NODE PUBLISH WIN23-24](/NODE_WIN23-24)
+
+> [‘The Return of SHAMASH‘ //NODE PUBLISH WIN2-SPR26](/NODE_WIN24-SPR26)
