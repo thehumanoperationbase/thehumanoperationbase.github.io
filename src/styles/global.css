@@ -10,6 +10,7 @@
 @layer base {
   html {
     font-family: var(--font-serif);
+    hyphens: auto;
   }
   h1 {
     font-family: var(--font-montserrat);
@@ -17,35 +18,26 @@
     text-align: center;
     text-transform: uppercase;
     padding-block: 72px;
-    padding-inline: 72px;
-    hyphens: auto;
   }
   h2 {
     font-family: var(--font-montserrat);
     font-size: var(--text-4xl);
     text-transform: uppercase;
     padding-block: 18px;
-    padding-inline: 72px;
-    hyphens: auto;
   }
   h3 {
     text-align: end;
     padding-right: 72px;
-    hyphens: auto;
   }
   p {
-    padding-inline: 72px;
     padding-block: 12px;
     line-height: 1.6;
     font-size: var(--text-lg);
-    hyphens: auto;
   }
   blockquote {
     border-left: 4px solid #d9d9d9;
     padding-block: 0;
     margin-block: 24px;
-    margin-left: 40px;
-    padding-right: 72px;
   }
   blockquote p{
     padding-block: 0;
