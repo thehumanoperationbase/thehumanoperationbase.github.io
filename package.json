@@ -13,7 +13,7 @@
     "@fontsource/playfair-display": "^5.2.8",
     "@fontsource/roboto": "^5.2.10",
     "@tailwindcss/vite": "^4.3.0",
-    "astro": "^6.4.2",
+    "astro": "^7.3.5",
     "tailwindcss": "^4.3.0"
   }
 }

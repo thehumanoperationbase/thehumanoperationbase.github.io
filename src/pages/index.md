@@ -12,7 +12,7 @@ description: "The Human Operation Base – Industrial Open Cooperative Platform"
 
 ## NODE PUBLISH / lates publication
 
-> [NODE PUBLISH WIN24-SPR26](/NODE_WIN24-SPR26)
+> [NODE PUBLISH SPR-SUM26](/NODE_SPR-SUM26)
 
 ## I.O.C.P. ongoing development
 
